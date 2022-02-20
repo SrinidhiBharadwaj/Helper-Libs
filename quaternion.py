@@ -1,3 +1,6 @@
+'''
+Author: Srinidhi Kalgundi Srinivas
+'''
 import numpy as np
 
 class Quaternion():
